@@ -1,2 +1,5 @@
 # introdatascience
-Master in Data Science (University Malaya) WQD7001
+WQD7001
+Master in Data Science 
+University Malaya
+2018/19
